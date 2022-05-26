@@ -12,4 +12,4 @@ The first version of my portfolio website in production
 
 - - -
 
-2022 © Hyejung Lim 
+2022 © Hyejung Lim
