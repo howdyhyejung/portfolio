@@ -2,7 +2,7 @@
 The first version of my portfolio website in production
 
 ## Table of Contents
-1. <b>[Issues](https://github.com/howdyhyejung/portfolio1#1-issues)</b>
+1. <b>[Issues](https://github.com/howdyhyejung/portfolio#1-issues)</b>
 
 # 1. Issues
 - [Add an exisitng project to GitHub](https://gist.github.com/alexpchin/102854243cd066f8b88e)
