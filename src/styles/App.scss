@@ -1,6 +1,7 @@
+@import './basics.scss';
 @import './variables.scss';
+@import './navbar.scss/';
 
 .App {
   text-align: center;
-  color: $primary-color;
 }
