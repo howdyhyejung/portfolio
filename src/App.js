@@ -5,9 +5,11 @@ import Home from './Home';
 
 import Navbar from './components/Navbar';
 import About from './components/About';
+
 import Projects from './components/projects/Projects';
 import ArtCalendar from './components/projects/ArtCalendar';
 import PosInfluences from './components/projects/PosInfluences';
+import PersonalBrand from './components/projects/PersonalBrand';
 
 
 function App() {
@@ -23,6 +25,7 @@ function App() {
             <Route path="/projects" element={<Projects />} />
             <Route path="/projects/artCalendar" element={<ArtCalendar />} />
             <Route path="/projects/positiveInfluences" element={<PosInfluences />} />
+            <Route path="/projects/personalBrand" element={<PersonalBrand />} />
           </Routes>
         </div>
       </div>

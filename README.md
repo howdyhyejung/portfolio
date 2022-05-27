@@ -15,6 +15,7 @@ The first version of my portfolio website in production
   * [Code Sandbox](https://codesandbox.io/s/react-responsive-nav-3n3lu?file=/src/styles/navbar.css)
   * [Go to a specific section (in Korean)](https://jaejong.tistory.com/80)
   * [Scroll to the top of a page in React](https://youtu.be/pKbNCWb6USQ)
+  * [How to Add Font Awesome Icons in React JS](https://youtu.be/L4CK3j72SfM)
 
 # 2. Future
 - [Scroll Magic](https://scrollmagic.io/)
