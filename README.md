@@ -14,6 +14,7 @@ The first version of my portfolio website in production
 - [Create a responsive navbar with React and CSS](https://blog.logrocket.com/create-responsive-navbar-react-css/)
   * [Code Sandbox](https://codesandbox.io/s/react-responsive-nav-3n3lu?file=/src/styles/navbar.css)
   * [Go to a specific section (in Korean)](https://jaejong.tistory.com/80)
+  * [Scroll to the top of a page in React](https://youtu.be/pKbNCWb6USQ)
 
 # 2. Future
 - [Scroll Magic](https://scrollmagic.io/)
