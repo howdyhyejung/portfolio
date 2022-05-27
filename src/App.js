@@ -1,11 +1,14 @@
 import './styles/App.scss';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './Navbar';
+
 import Home from './Home';
-import About from './About';
-import Projects from './Projects';
-import ArtCalendar from './projects/ArtCalendar';
-import PosInfluences from './projects/PosInfluences';
+
+import Navbar from './components/Navbar';
+import About from './components/About';
+import Projects from './components/projects/Projects';
+import ArtCalendar from './components/projects/ArtCalendar';
+import PosInfluences from './components/projects/PosInfluences';
+
 
 function App() {
 
