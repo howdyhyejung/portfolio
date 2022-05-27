@@ -7,10 +7,9 @@ import Navbar from './components/Navbar';
 import About from './components/About';
 
 import Projects from './components/projects/Projects';
-import ArtCalendar from './components/projects/ArtCalendar';
-import PosInfluences from './components/projects/PosInfluences';
-import PersonalBrand from './components/projects/PersonalBrand';
-
+import ArtCalendar from './components/projects/ArtCalendar/ArtCalendar';
+import PersonalBrand from './components/projects/PersonalBrand/PersonalBrand';
+import PosInfluences from './components/projects/PosInfluences/PosInfluences';
 
 function App() {
 
