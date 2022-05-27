@@ -1,4 +1,5 @@
 import BackToTop from "../BackToTop";
+import ColorPalette from '../../images/posInfluences/colorPalette.svg';
 
 const PosInfluences = () => {
     return (
@@ -38,6 +39,7 @@ const PosInfluences = () => {
                 <h4>Define</h4>
                 <h4>Ideate</h4>
                 <h4>Prototype</h4>
+                <img src={ ColorPalette } alt="color palette" />
             <h3 id="topic3">THE SOLUTION</h3>
                 <p>메인 포인트</p>
                 <p>스크린샷과 함께 설명</p>
