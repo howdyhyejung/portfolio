@@ -1,27 +1,14 @@
 @import './basics.scss';
 @import './variables.scss';
 @import './navbar.scss/';
+@import './projects.scss';
 
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .content {
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
-}
-
-.backToTopButton {
-  position: fixed;
-  bottom: 50px;
-  right: 50px;
-  height: 50px;
-  width: 50px;
-  font-size: 50px;
-}
-
-img {
-  height: 200px;
-  width: 200px;
 }
