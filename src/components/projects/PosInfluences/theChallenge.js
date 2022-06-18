@@ -61,7 +61,7 @@ const TheChallenge = () => {
                     <div className="topics">
                         <h4 className="sectionTitle">역할</h4>
                         <ul className="sectionList">
-                            <li>P편의성 향상을 통해 서비스 제공자와 사용자의 만족도를 높이고, 결식아동의 사용 빈도수 향상</li>
+                            <li>편의성 향상을 통해 서비스 제공자와 사용자의 만족도를 높이고, 결식아동의 사용 빈도수 향상</li>
                             <li>2019년 12월부터 2020년 1월까지 앱 프로토타입 혼자 제작</li>
                         </ul>
                     </div>

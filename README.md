@@ -3,6 +3,10 @@ The first version of my portfolio website in production
 
 ## Table of Contents
 1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
+1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
+1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
+1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
+
 
 # 1. References
 - [Add an exisitng project to GitHub](https://gist.github.com/alexpchin/102854243cd066f8b88e)
@@ -18,9 +22,13 @@ The first version of my portfolio website in production
   * [How to Add Font Awesome Icons in React JS](https://youtu.be/L4CK3j72SfM)
 
 # 2. Benchmarking
-- [Jeff Shibasaki](https://jeffshibasaki.com/work/colgate)
+- [Jeff Shibasaki - Colgate](https://jeffshibasaki.com/work/colgate)
 
-# 3. Future
+# 3. GitHub
+- How to upload to GitHub
+  * `git status` => `git add .` => `git commit -m [commit message]` => `git push`
+
+# 4. Future
 - [Scroll Magic](https://scrollmagic.io/)
 - - -
 

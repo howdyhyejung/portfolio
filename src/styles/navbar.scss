@@ -5,14 +5,14 @@
     height: 60px;
     width: 100%;
     padding: 0.5rem 0rem;
-    background-color: #fff;
-    color: black;
+    background-color: $white;
+    color: $black;
     box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
 }
 
 .brand-name {
     text-decoration: none;
-    color: black;
+    color: $black;
     font-size: 1.3rem;
     margin-left: 1rem;
 }
@@ -44,7 +44,7 @@
     width: 40px;
     padding: 0.5rem;
     border-radius: 50%;
-    background-color: #283b8b;
+    background-color: $dark-blue-2;
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
     // positions the icon to the right and center aligns it vertically
@@ -55,7 +55,7 @@
     display: none;
 
     &:hover {
-        background-color: #2642af;
+        background-color: $dark-blue-1;
     }
 }
 
@@ -81,8 +81,8 @@
             left: 0;
             width: 100%;
             height: calc(100vh - 60px);
-            background-color: white;
-            border-top: 1px solid black;
+            background-color: $white;
+            border-top: 1px solid $black;
             display: none;
 
             li {
@@ -90,11 +90,11 @@
                 margin: 0;
 
                 &:hover {
-                    background-color: #eee;
+                    background-color: $lightgray;
                 }
 
                 a {
-                    color: black;
+                    color: $black;
                     width: 100%;
                     padding: 1.5rem 0;
                 }
