@@ -1,11 +1,11 @@
-# cmdlhz_ver1
-The first version of my portfolio website in production
+# Hyejung Lim's Portfolio
+Hyejung Lim's Portfolio (2022 ver.)
 
 ## Table of Contents
 1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
-1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
-1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
-1. <b>[References](https://github.com/howdyhyejung/portfolio#1-references)</b>
+2. <b>[Benchmarking](https://github.com/howdyhyejung/portfolio#2-benchmarking)</b>
+3. <b>[GitHub](https://github.com/howdyhyejung/portfolio#3-github)</b>
+4. <b>[Future](https://github.com/howdyhyejung/portfolio#4-future)</b>
 
 
 # 1. References
@@ -27,6 +27,10 @@ The first version of my portfolio website in production
 # 3. GitHub
 - How to upload to GitHub
   * `git status` => `git add .` => `git commit -m [commit message]` => `git push`
+- Preview
+  * `npm run start`
+- Deploy
+  * `npm run deploy`
 
 # 4. Future
 - [Scroll Magic](https://scrollmagic.io/)
